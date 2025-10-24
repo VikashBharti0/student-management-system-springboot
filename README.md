@@ -33,4 +33,4 @@ It allows users to manage student data efficiently through a simple and intuitiv
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/student-management-system-springboot.git
+   git clone https://github.com/VikashBharti0/student-management-system-springboot.git
