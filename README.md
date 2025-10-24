@@ -22,7 +22,8 @@ It allows users to manage student data efficiently through a simple and intuitiv
 ---
 
 ## 🖥️ Pages
-- Home Page  
+- Home Page
+- <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/80481813-57ce-48b7-a44a-fac13e9269a8" /> 
 - Students List Page  
 - Add/Edit Student Form  
 - About Page  
